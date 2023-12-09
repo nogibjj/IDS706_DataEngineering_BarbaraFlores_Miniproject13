@@ -1,23 +1,12 @@
 <!DOCTYPE html>
-<html lang="es">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Flask App con GPT-3</title>
+    <title>Flask App con LLM</title>
 </head>
 <body>
-    <h1>Generador de Texto con GPT-3</h1>
-    <form action="/gpt3" method="post">
-        <label for="prompt">Ingrese un prompt:</label>
-        <textarea id="prompt" name="prompt" rows="4" cols="50" required></textarea>
-        <br>
-        <input type="submit" value="Generar Texto">
-    </form>
-    {% if prompt %}
-        <h2>Último prompt:</h2>
-        <p>{{ prompt }}</p>
-        <h2>Respuesta de GPT-3:</h2>
-        <p>{{ response }}</p>
-    {% endif %}
+    <h1>Texto Generado:</h1>
+    <p>{{ generated_text }}</p>
 </body>
 </html>

@@ -6,6 +6,7 @@ requests==2.26.0
 pylint==3.0.0
 Flask==3.0.0
 transformers==4.35.2
+tokenizers==0.15.0
 
 
 

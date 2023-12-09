@@ -9,7 +9,7 @@ format:
 	black ./*.py
 
 lint:
-	pylint --disable=R,C --ignore-patterns=test_.*?py app/*.py run.py
+	pylint --disable=R,C --ignore-patterns=test_.*?py app/ run.py
 
 container-lint:
 	docker run --rm -i hadolint/hadolint < Dockerfile

@@ -13,6 +13,7 @@ This project involves building a publicly accessible auto-scaling container usin
 The application translates English text to Spanish using the Helsinki-NLP Opus MT model.
 
 
+The project structure is as follows:
 ```bash
 .
 ├── Dockerfile

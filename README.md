@@ -13,12 +13,12 @@ This project involves building a publicly accessible auto-scaling container usin
 The application translates English text to Spanish using the Helsinki-NLP Opus MT model.
 
 ### 🎥 Video Tutorial
-The following [YouTube link](https://youtu.be/EFe9FRIGIUc) shows a clear, concise walkthrough and demonstration of the project
+The following [YouTube link](https://youtu.be/EFe9FRIGIUc) shows a clear, concise walkthrough and demonstration of the project.
 
 
-###🌲 Project Structure
-
+### 🌲 Project Structure
 The project structure is as follows:
+
 ```bash
 .
 ├── Dockerfile
@@ -41,8 +41,16 @@ The project structure is as follows:
 
 ## Deployment
 ### Docker Container
-- Build the Docker image: `docker build -t your-image-name .`
-- Run the Docker container: `docker run -p 5000:5000 your-image-name`
+- Build the Docker image:
+```bash
+docker build -t barbarapfloresrios/translator_app .
+```
+
+- Run the Docker container:
+```bash
+docker run -p 5000:5000 barbarapfloresrios/translator_app 
+```
+
 
 ## Dependencies
 - Flask: 2.0.0

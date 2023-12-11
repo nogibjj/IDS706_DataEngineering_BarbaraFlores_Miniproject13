@@ -41,21 +41,48 @@ The project structure is as follows:
 
 
 ## 🛠️ Setup and Running
-1. Install dependencies: `pip install -r requirements.txt`
-2. Run the application locally: `python app.py`
-3. Open a web browser and go to [http://localhost:5000](http://localhost:5000)
+
+To get the translation application up and running, follow these simple steps:
+
+1. **Install Dependencies:** Before getting started, make sure you have all the dependencies installed. Execute the following command to install them:
+
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+2. **Local Execution:**
+   - Start the application locally with the following command:
+
+    ```bash
+    python app.py
+    ```
+
+   - Open your web browser and visit [http://localhost:5000](http://localhost:5000).
+
+   The application should now be up and running in your local environment.
 
 ## Deployment
-### Docker Container
-- Build the Docker image:
-```bash
-docker build -t barbarapfloresrios/translator_app .
-```
 
-- Run the Docker container:
-```bash
-docker run -p 5000:5000 barbarapfloresrios/translator_app 
-```
+If you prefer to deploy the application in a Docker container, follow these additional steps:
+
+1. **Build Docker Image:**
+   - Build the Docker image with the following command:
+
+    ```bash
+    docker build -t barbarapfloresrios/translator_app .
+    ```
+
+2. **Run Docker Container:**
+   - Run the Docker container with the following command:
+
+    ```bash
+    docker run -p 5000:5000 barbarapfloresrios/translator_app
+    ```
+
+   The application will now be accessible at [http://localhost:5000](http://localhost:5000), similar to the local execution.
+
+These steps will allow you to run the translation application both locally and in a Docker container. Enjoy exploring the functionality of the application!
+
 
 
 ## Dependencies

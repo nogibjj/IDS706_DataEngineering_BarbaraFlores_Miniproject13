@@ -18,11 +18,11 @@ Auto scaling is a critical aspect of modern web applications, ensuring that the 
 This README serves as a comprehensive guide for developers, reviewers, and anyone interested in understanding the structure, deployment process, and functionality of the Auto Scaling Flask App. Whether you're here to explore the codebase, run the application locally, or deploy it to the cloud, you'll find detailed instructions and insights to assist you on your journey.
 
 
-### 🎥 Video Tutorial
+## 🎥 Video Tutorial
 The following [YouTube link](https://youtu.be/EFe9FRIGIUc) shows a clear, concise walkthrough and demonstration of the project.
 
 
-### 🌲 Project Structure
+## 🌲 Project Structure
 The project structure is as follows:
 
 ```bash
@@ -40,7 +40,7 @@ The project structure is as follows:
 ```
 
 
-## Setup and Running
+### Setup and Running
 1. Install dependencies: `pip install -r requirements.txt`
 2. Run the application locally: `python app.py`
 3. Open a web browser and go to [http://localhost:5000](http://localhost:5000)

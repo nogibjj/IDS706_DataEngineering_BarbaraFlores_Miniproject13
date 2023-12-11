@@ -19,7 +19,7 @@ This README serves as a comprehensive guide for developers, reviewers, and anyon
 
 
 ## 🎥 Video Tutorial
-The following [YouTube link](https://youtu.be/EFe9FRIGIUc) shows a clear, concise walkthrough and demonstration of the project.
+The following [YouTube link](https://youtu.be/3oEopPvWFHk) shows a clear, concise walkthrough and demonstration of the project.
 
 
 ## 🌲 Project Structure

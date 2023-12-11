@@ -31,3 +31,8 @@ The project structure is as follows:
 ![001.png](https://raw.githubusercontent.com/nogibjj/IDS706_DataEngineering_BarbaraFlores_Project4/main/images/001.png)
 ![002.png](https://raw.githubusercontent.com/nogibjj/IDS706_DataEngineering_BarbaraFlores_Project4/main/images/002.png)
 
+
+## Conclusion
+In conclusion, this project demonstrates the implementation of an auto-scaling Flask app using Azure App Services. The translation functionality is powered by the Helsinki-NLP Opus MT model. To further enhance scalability, consider optimizing containerization and deployment strategies.
+
+

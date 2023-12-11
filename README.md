@@ -40,7 +40,7 @@ The project structure is as follows:
 ```
 
 
-### Setup and Running
+## Setup and Running
 1. Install dependencies: `pip install -r requirements.txt`
 2. Run the application locally: `python app.py`
 3. Open a web browser and go to [http://localhost:5000](http://localhost:5000)

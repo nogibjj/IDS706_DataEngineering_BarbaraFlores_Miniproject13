@@ -16,6 +16,8 @@ The application translates English text to Spanish using the Helsinki-NLP Opus M
 The following [YouTube link](https://youtu.be/EFe9FRIGIUc) shows a clear, concise walkthrough and demonstration of the project
 
 
+###🌲 Project Structure
+
 The project structure is as follows:
 ```bash
 .
@@ -30,6 +32,24 @@ The project structure is as follows:
 └── test_main.py
 
 ```
+
+
+## Setup and Running
+1. Install dependencies: `pip install -r requirements.txt`
+2. Run the application locally: `python app.py`
+3. Open a web browser and go to [http://localhost:5000](http://localhost:5000)
+
+## Deployment
+### Docker Container
+- Build the Docker image: `docker build -t your-image-name .`
+- Run the Docker container: `docker run -p 5000:5000 your-image-name`
+
+### Azure Web App
+1. Deploy the container to Azure App Services.
+2. Access the public endpoint provided by Azure.
+
+
+
 
 ![000.png](https://raw.githubusercontent.com/nogibjj/IDS706_DataEngineering_BarbaraFlores_Project4/main/images/000.png)
 ![001.png](https://raw.githubusercontent.com/nogibjj/IDS706_DataEngineering_BarbaraFlores_Project4/main/images/001.png)

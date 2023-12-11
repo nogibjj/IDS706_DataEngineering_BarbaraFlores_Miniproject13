@@ -83,7 +83,7 @@ If you prefer to deploy the application in a Docker container, follow these addi
 
 These steps will allow you to run the translation application both locally and in a Docker container. Enjoy exploring the functionality of the application!
 
-![003.png](https://raw.githubusercontent.com/nogibjj/IDS706_DataEngineering_BarbaraFlores_Project4/main/images/003.png)
+![00.png](https://raw.githubusercontent.com/nogibjj/IDS706_DataEngineering_BarbaraFlores_Project4/main/images/00.png)
 
 ## Dependencies
 - Flask: 2.0.0
@@ -110,7 +110,7 @@ To deploy the application to Azure Web App, follow these steps:
 4. **Access the Public Endpoint:**
    - Once the Web App is deployed, obtain the URL of the public endpoint provided by Azure.
 
-![000.png](https://raw.githubusercontent.com/nogibjj/IDS706_DataEngineering_BarbaraFlores_Project4/main/images/000.png)
+![01.png](https://raw.githubusercontent.com/nogibjj/IDS706_DataEngineering_BarbaraFlores_Project4/main/images/01.png)
 
 
 ## 📦 Dependencies
@@ -118,8 +118,8 @@ To deploy the application to Azure Web App, follow these steps:
 - transformers: 4.12.0
 
 ## 🎥 Example of Use
-![001.png](https://raw.githubusercontent.com/nogibjj/IDS706_DataEngineering_BarbaraFlores_Project4/main/images/001.png)
-![002.png](https://raw.githubusercontent.com/nogibjj/IDS706_DataEngineering_BarbaraFlores_Project4/main/images/002.png)
+![02.png](https://raw.githubusercontent.com/nogibjj/IDS706_DataEngineering_BarbaraFlores_Project4/main/images/02.png)
+![03.png](https://raw.githubusercontent.com/nogibjj/IDS706_DataEngineering_BarbaraFlores_Project4/main/images/03.png)
 
 ## 🏁 Conclusion
 In summary, this project demonstrates not only the translation capability of the application but also the successful implementation of a scalable Flask application using Azure App Services. For further scalability, consider optimizing containerization and deployment strategies.

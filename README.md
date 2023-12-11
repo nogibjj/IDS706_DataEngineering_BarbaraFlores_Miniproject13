@@ -14,8 +14,6 @@ IDS706_DataEngineering_BarbaraFlores_Project4
 ├── Dockerfile
 ├── Makefile
 ├── README.md
-├── __pycache__
-│   └── app.cpython-38.pyc
 ├── app.py
 ├── requirements.txt
 ├── setup.sh

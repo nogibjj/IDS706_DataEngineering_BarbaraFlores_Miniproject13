@@ -12,6 +12,9 @@ IDS706_DataEngineering_BarbaraFlores_Project4
 This project involves building a publicly accessible auto-scaling container using Azure App Services and Flask. 
 The application translates English text to Spanish using the Helsinki-NLP Opus MT model.
 
+### 🎥 Video Tutorial
+The following [YouTube link](https://youtu.be/EFe9FRIGIUc) shows a clear, concise walkthrough and demonstration of the project
+
 
 The project structure is as follows:
 ```bash

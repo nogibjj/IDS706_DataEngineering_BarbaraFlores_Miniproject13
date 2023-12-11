@@ -83,7 +83,7 @@ If you prefer to deploy the application in a Docker container, follow these addi
 
 These steps will allow you to run the translation application both locally and in a Docker container. Enjoy exploring the functionality of the application!
 
-
+![003.png](https://raw.githubusercontent.com/nogibjj/IDS706_DataEngineering_BarbaraFlores_Project4/main/images/003.png)
 
 ## Dependencies
 - Flask: 2.0.0

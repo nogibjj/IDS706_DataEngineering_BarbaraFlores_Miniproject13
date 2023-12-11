@@ -8,9 +8,15 @@
 IDS706_DataEngineering_BarbaraFlores_Project4
 ## 📂 Auto Scaling Flask App Using Any Platform As a Service
 
+### Project Overview
+In this project, we have created a Translation App using Flask, allowing users to translate English text to Spanish seamlessly. The core functionality is powered by the Helsinki-NLP Opus MT model, showcasing the integration of advanced natural language processing capabilities into a Flask web application.
 
-This project involves building a publicly accessible auto-scaling container using Azure App Services and Flask. 
-The application translates English text to Spanish using the Helsinki-NLP Opus MT model.
+### Why Auto Scaling?
+Auto scaling is a critical aspect of modern web applications, ensuring that the infrastructure adapts dynamically to varying workloads. This project not only demonstrates the translation capabilities of our app but also highlights the implementation of auto-scaling features using Azure App Services. By doing so, we address the need for efficiency, performance, and scalability in a real-world deployment scenario.
+
+### How to Use This README
+This README serves as a comprehensive guide for developers, reviewers, and anyone interested in understanding the structure, deployment process, and functionality of the Auto Scaling Flask App. Whether you're here to explore the codebase, run the application locally, or deploy it to the cloud, you'll find detailed instructions and insights to assist you on your journey.
+
 
 ### 🎥 Video Tutorial
 The following [YouTube link](https://youtu.be/EFe9FRIGIUc) shows a clear, concise walkthrough and demonstration of the project.

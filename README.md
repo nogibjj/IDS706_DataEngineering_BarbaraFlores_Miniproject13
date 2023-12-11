@@ -9,6 +9,10 @@ IDS706_DataEngineering_BarbaraFlores_Project4
 ## 📂 Auto Scaling Flask App Using Any Platform As a Service
 
 
+This project involves building a publicly accessible auto-scaling container using Azure App Services and Flask. 
+The application translates English text to Spanish using the Helsinki-NLP Opus MT model.
+
+
 ```bash
 .
 ├── Dockerfile

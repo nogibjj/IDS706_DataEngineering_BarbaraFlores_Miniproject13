@@ -47,11 +47,10 @@ The project structure is as follows:
 ### Azure Web App
 1. Deploy the container to Azure App Services.
 2. Access the public endpoint provided by Azure.
-
-
-
-
 ![000.png](https://raw.githubusercontent.com/nogibjj/IDS706_DataEngineering_BarbaraFlores_Project4/main/images/000.png)
+
+
+### 🎥 Esxample of use
 ![001.png](https://raw.githubusercontent.com/nogibjj/IDS706_DataEngineering_BarbaraFlores_Project4/main/images/001.png)
 ![002.png](https://raw.githubusercontent.com/nogibjj/IDS706_DataEngineering_BarbaraFlores_Project4/main/images/002.png)
 

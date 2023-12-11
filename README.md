@@ -44,6 +44,11 @@ The project structure is as follows:
 - Build the Docker image: `docker build -t your-image-name .`
 - Run the Docker container: `docker run -p 5000:5000 your-image-name`
 
+## Dependencies
+- Flask: 2.0.0
+- transformers: 4.12.0
+
+
 ### Azure Web App
 1. Deploy the container to Azure App Services.
 2. Access the public endpoint provided by Azure.

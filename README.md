@@ -113,15 +113,15 @@ To deploy the application to Azure Web App, follow these steps:
 ![000.png](https://raw.githubusercontent.com/nogibjj/IDS706_DataEngineering_BarbaraFlores_Project4/main/images/000.png)
 
 
-## Dependencies
+## 📦 Dependencies
 - Flask: 2.0.0
 - transformers: 4.12.0
 
-### 🎥 Example of Use
+## 🎥 Example of Use
 ![001.png](https://raw.githubusercontent.com/nogibjj/IDS706_DataEngineering_BarbaraFlores_Project4/main/images/001.png)
 ![002.png](https://raw.githubusercontent.com/nogibjj/IDS706_DataEngineering_BarbaraFlores_Project4/main/images/002.png)
 
-## Conclusion
+## 🏁 Conclusion
 In summary, this project demonstrates not only the translation capability of the application but also the successful implementation of a scalable Flask application using Azure App Services. For further scalability, consider optimizing containerization and deployment strategies.
 
 
